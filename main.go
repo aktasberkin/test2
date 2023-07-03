@@ -12,4 +12,5 @@ func main() {
 	hello.Greetings()
 	no.No()
 	fmt.Println("Checkpoint")
+	fmt.Println("Checkpoint2")
 }
